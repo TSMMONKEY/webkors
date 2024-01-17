@@ -131,8 +131,8 @@
 											<li><a href="#">About </a></li>
 											<li><a href="#">Services <i class="icofont-rounded-down"></i></a>
 												<ul class="dropdown">
-													<li><a href="404.html">Basic Web Design</a></li>
-													<li><a href="404.html">Pro Web Design</a></li>
+													<li><a href="services/basic-web-design/">Basic Web Design</a></li>
+													<li><a href="services/pro-web-design/">Pro Web Design</a></li>
 													<li><a href="404.html">Website Maintenance</a></li>
 													<li><a href="404.html">Custom Web Design</a></li>
 													<li><a href="404.html">Email Development</a></li>
