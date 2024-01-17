@@ -7,12 +7,12 @@
 				<div class="row">
 					<div class="col-lg-12 col-12">
 						<div class="row">							<!-- News Head -->
-							<div class="news-head hero-section pro-head">
+							<div class="news-head hero-section custom-head">
 								<div class="overlay"></div>
 								<div class="content">
-									<h1 style="font-family: cursive;">Get The <strong>Best Pro Website Design</strong> at Webkors</h1>
+									<h1 style="font-family: cursive;">Get <strong>Custom Website Design</strong> at Webkors</h1>
 									<p style="color:#fff; font-size: 16px;">
-										Unleash the potential of your online presence with Webkors, where our team of skilled designers is dedicated to crafting superior websites tailored to your unique needs.
+										At Webkors, we understand that your online presence is an extension of your brand's identity.
 									</p>
 								</div>
 							</div>
@@ -20,56 +20,60 @@
 								<div class="col-12">
 									<div class="single-main p-0">
 										<!-- News Title -->
-										<h2 class="news-title mt-5 text-center">Packages for Every Requirement</h2>
+										<h2 class="news-title mt-5 text-center">Tailored Designs for Unique Identities</h2>
 										<!-- News Text -->
 										<div class="news-text text-center">
 											<p>
-												Choose from our diverse range of packages, each designed to cater to different needs and preferences. Whether you're a small business, a startup, or an established enterprise, we have the perfect package for you.
+												Our team of experienced designers collaborates closely with you, ensuring every aspect of your website reflects your brand personality, from the overall aesthetics to the smallest interactive details. 
 											</p>
 											<div class="image-gallery">
 												<!-- <h2 class="text-center mt-5 mb-3">Essential Web Presence Package</h2> -->
 												<div class="row">
 													<div class="col-lg-4 col-md-4 col-12">
 														<div class="single-image text-left">
-															<img src="../img/essential-web.png" alt="#">
-															<h3 class="pt-4 pb-sm-2 pb-md-3 pb-lg-3">Essential Web Presence Package</h3>
+															<img src="../img/AdobeStock_632724175_Preview.jpeg" alt="#">
+															<h3 class="pt-4 pb-sm-2 pb-md-3 pb-lg-3">Starter Design Package</h3>
 															<ul style="list-style: inside;">
-																<li style="list-style: inside;">Customized Pro Website Design</li>
-																<li style="list-style: inside;">Responsive Layout for All Devices</li>
-																<li style="list-style: inside;">Basic SEO Optimization</li>
-																<li style="list-style: inside;">Contact Form Integration</li>
-																<li style="list-style: inside;">Social Media Links</li>
-																<li style="list-style: inside;">24/7 Customer Support</li>
+																<li style="list-style: inside;">Personalized Consultation</li>
+																<li style="list-style: inside;">Custom Homepage Design</li>
+																<li style="list-style: inside;">Basic Content Structure</li>
+																<li style="list-style: inside;">Mobile Responsiveness</li>
+																<li style="list-style: inside;">Limited Revisions</li>
+																<li style="list-style: inside;">Standard Support</li>
 															</ul>
 															<a class="btn mt-3 text-center" href="#" style="color: #fff;">Get Offer</a>
 														</div>
 													</div>
 													<div class="col-lg-4 col-md-4 col-12">
 														<div class="single-image text-left">
-															<img src="../img/Business-Boost-Package.png" alt="#">
-															<h3 class="pt-4 pb-sm-2 pb-md-5 pb-lg-3">Business Boost Package</h3>
+															<img src="../img/AdobeStock_632724144_Preview (1).jpeg" alt="#">
+															<h3 class="pt-4 pb-sm-2 pb-md-5 pb-lg-3">Professional Design Package</h3>
 															<ul style="list-style: inside;">
-																<li style="list-style: inside;">Everything in Essential Package</li>
-																<li style="list-style: inside;">Enhanced SEO Strategy</li>
-																<li style="list-style: inside;">E-commerce Integration (Up to 20 Products)</li>
-																<li style="list-style: inside;">Blog Setup</li>
-																<li style="list-style: inside;">Google Analytics Integration</li>
-																<li style="list-style: inside;">Priority Customer Support</li>
+																<li style="list-style: inside;">Everything In Starter Package</li>
+																<li style="list-style: inside;">In-Depth Consultation and Conceptualization</li>
+																<li style="list-style: inside;">Complete Website Design (Up to 10 Pages)</li>
+																<li style="list-style: inside;">Enhanced Content Structure and Navigation</li>
+																<li style="list-style: inside;">Mobile and Tablet Responsiveness</li>
+																<li style="list-style: inside;">Priority Support</li>
+																<li style="list-style: inside;">Basic SEO Optimization</li>
 															</ul>
 															<a class="btn mt-3" href="#" style="color: #fff;">Get Offer</a>
 														</div>
 													</div>
 													<div class="col-lg-4 col-md-4 col-12">
 														<div class="single-image text-left">
-															<img src="../img/Everything-in-Business-Boost-Package.png" alt="#">
-															<h3 class="pt-4 pb-3">Everything in Business Boost Package</h3>
+															<img src="../img/AdobeStock_632724144_Preview.jpeg" alt="#">
+															<h3 class="pt-4 pb-3">Premium Design Excellence</h3>
 															<ul style="list-style: inside;">
-																<li style="list-style: inside;">Everything in Essential Package</li>
-																<li style="list-style: inside;">Premium Content Management System</li>
-																<li style="list-style: inside;">Unlimited E-commerce Products</li>
-																<li style="list-style: inside;">Custom Graphics and Illustrations</li>
-																<li style="list-style: inside;">Monthly Performance Reports</li>
-																<li style="list-style: inside;">VIP Priority Support</li>
+																<li style="list-style: inside;">Extensive Consultation and Strategy Sessions</li>
+																<li style="list-style: inside;">Comprehensive Website Design (Up to 20 Pages)</li>
+																<li style="list-style: inside;">Advanced Content Structure and User Experience Optimization</li>
+																<li style="list-style: inside;">Seamless Multi-Device Responsiveness</li>
+																<li style="list-style: inside;">Unlimited Revisions</li>
+																<li style="list-style: inside;">24/7 Priority Support</li>
+																<li style="list-style: inside;">Full SEO Optimization and Analytics Integration</li>
+																<li style="list-style: inside;">Custom Interactive Elements and Animations
+</li>
 															</ul>
 															<a class="btn mt-3" href="#" style="color: #fff;">Get Offer</a>
 														</div>
@@ -77,15 +81,15 @@
 												</div>
 											</div>
 											<p>
-												At Webkors, our packages are meticulously crafted to meet the diverse needs of businesses seeking professional website design. The Essential Web Presence Package provides an affordable entry point for those looking to establish their online identity, while the Business Boost Package offers a comprehensive solution for those aiming to enhance their reach and functionality. For those seeking the pinnacle of digital excellence, our Premium Excellence Package ensures a top-tier web presence with advanced features, unmatched security, and personalized support. No matter your business size or goals, Webkors has the perfect package to elevate your online presence.
+												Our design process is not just about creating a website; it's about creating an experience. We believe in collaboration, working hand-in-hand with our clients to understand their goals and aspirations. From the initial concept to the final implementation, Webkors ensures transparency and client involvement at every stage. 
 											</p>
 											<blockquote class="overlay">
 												<p>
-													Choose the package that aligns perfectly with your goals and let Webkors transform your digital presence into a captivating and powerful online experience.
+													Whether you're starting from scratch or looking to revamp your existing site, Webkors is your partner in achieving a distinctive and impactful online presence.
 												</p>					
 											</blockquote>
 											<p>
-												Beyond the features listed, what sets our packages apart is our unwavering commitment to customer satisfaction. From the Essential package to the Premium Excellence tier, each client receives dedicated support and a seamless experience. We don't just build websites; we cultivate relationships. As your business grows, our packages are designed to scale with you, ensuring that your online presence remains not only effective but also a driving force behind your success. Choose Webkors for professional website design that goes beyond the ordinary, delivering unparalleled support and fostering your business growth.
+												In the ever-evolving digital landscape, having a responsive and future-ready website is crucial. Webkors integrates the latest design trends and technologies to ensure your website not only looks impressive today but remains relevant and functional tomorrow. Our commitment to delivering responsive designs means your site adapts seamlessly to various devices, providing an optimal user experience across desktops, tablets, and smartphones. Trust Webkors to create a custom website design that not only captures attention but also stands the test of technological advancements.
 											</p>
 										</div>
 										<!-- <div class="blog-bottom">
