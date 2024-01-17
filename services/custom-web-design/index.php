@@ -7,12 +7,12 @@
 				<div class="row">
 					<div class="col-lg-12 col-12">
 						<div class="row">							<!-- News Head -->
-							<div class="news-head hero-section">
+							<div class="news-head hero-section pro-head">
 								<div class="overlay"></div>
 								<div class="content">
-									<h1 style="font-family: cursive;">Get The <strong>Best Website Design</strong> at Webkors</h1>
+									<h1 style="font-family: cursive;">Get The <strong>Best Pro Website Design</strong> at Webkors</h1>
 									<p style="color:#fff; font-size: 16px;">
-										Discover the ultimate online presence with the best website builders at your fingertips. Elevate your digital identity effortlessly
+										Unleash the potential of your online presence with Webkors, where our team of skilled designers is dedicated to crafting superior websites tailored to your unique needs.
 									</p>
 								</div>
 							</div>
@@ -20,56 +20,73 @@
 								<div class="col-12">
 									<div class="single-main p-0">
 										<!-- News Title -->
-										<h2 class="news-title mt-5 text-center">Effortless Content Management with Our Basic CMS Website Designs</h2>
+										<h2 class="news-title mt-5 text-center">Packages for Every Requirement</h2>
 										<!-- News Text -->
 										<div class="news-text text-center">
 											<p>
-												Setting up a strong online presence has never been easier. With our Basic CMS Website Designs, we empower you to effortlessly manage and update your website content.
+												Choose from our diverse range of packages, each designed to cater to different needs and preferences. Whether you're a small business, a startup, or an established enterprise, we have the perfect package for you.
 											</p>
 											<div class="image-gallery">
-												<h2 class="text-center mt-5 mb-3">CMS Packages</h2>
+												<!-- <h2 class="text-center mt-5 mb-3">Essential Web Presence Package</h2> -->
 												<div class="row">
 													<div class="col-lg-4 col-md-4 col-12">
-														<div class="single-image">
-															<img src="../img/Standard-CMS-Package.png" alt="#">
-															<h3 class="pt-4">Standard CMS Package</h3>
-															<p class="text-center pt-1">
-																Tailored for businesses seeking a robust content management system,
-																 this package combines user-friendly functionality with a touch of customization.
-																 Our standard offering includes a responsive and scalable website design,
-															</p>
-															<a class="btn" href="#" style="color: #fff;">Get Offer</a>
+														<div class="single-image text-left">
+															<img src="../img/essential-web.png" alt="#">
+															<h3 class="pt-4 pb-sm-2 pb-md-3 pb-lg-3">Essential Web Presence Package</h3>
+															<ul style="list-style: inside;">
+																<li style="list-style: inside;">Customized Pro Website Design</li>
+																<li style="list-style: inside;">Responsive Layout for All Devices</li>
+																<li style="list-style: inside;">Basic SEO Optimization</li>
+																<li style="list-style: inside;">Contact Form Integration</li>
+																<li style="list-style: inside;">Social Media Links</li>
+																<li style="list-style: inside;">24/7 Customer Support</li>
+															</ul>
+															<a class="btn mt-3 text-center" href="#" style="color: #fff;">Get Offer</a>
 														</div>
 													</div>
 													<div class="col-lg-4 col-md-4 col-12">
-														<div class="single-image">
-															<img src="../img/Premium-CMS-Package.png" alt="#">
-															<h3 class="pt-4">Premium CMS Package</h3>
-															<p class="pt-1">
-																Step into a realm of unparalleled digital sophistication with our Premium CMS Package. Tailored for businesses that demand excellence, this package goes beyond standard offerings, offering a curated blend of cutting-edge design and advanced functionality.
-															</p>
-															<a class="btn" href="#" style="color: #fff;">Get Offer</a>
+														<div class="single-image text-left">
+															<img src="../img/Business-Boost-Package.png" alt="#">
+															<h3 class="pt-4 pb-sm-2 pb-md-5 pb-lg-3">Business Boost Package</h3>
+															<ul style="list-style: inside;">
+																<li style="list-style: inside;">Everything in Essential Package</li>
+																<li style="list-style: inside;">Enhanced SEO Strategy</li>
+																<li style="list-style: inside;">E-commerce Integration (Up to 20 Products)</li>
+																<li style="list-style: inside;">Blog Setup</li>
+																<li style="list-style: inside;">Google Analytics Integration</li>
+																<li style="list-style: inside;">Priority Customer Support</li>
+															</ul>
+															<a class="btn mt-3" href="#" style="color: #fff;">Get Offer</a>
 														</div>
 													</div>
 													<div class="col-lg-4 col-md-4 col-12">
-														<div class="single-image">
-															<img src="../img/Gold-CMS-Package.png" alt="#">
-															<h3 class="pt-4">Gold CMS Package</h3>
-															<p class="pt-1">
-																Embark on a journey of digital distinction with our Gold CMS Package, an elite solution tailored for businesses that prioritize excellence. This premium offering encompasses a bespoke and responsive website design.
-															</p>
-															<a class="btn" href="#" style="color: #fff;">Get Offer</a>
+														<div class="single-image text-left">
+															<img src="../img/Everything-in-Business-Boost-Package.png" alt="#">
+															<h3 class="pt-4 pb-3">Everything in Business Boost Package</h3>
+															<ul style="list-style: inside;">
+																<li style="list-style: inside;">Everything in Essential Package</li>
+																<li style="list-style: inside;">Premium Content Management System</li>
+																<li style="list-style: inside;">Unlimited E-commerce Products</li>
+																<li style="list-style: inside;">Custom Graphics and Illustrations</li>
+																<li style="list-style: inside;">Monthly Performance Reports</li>
+																<li style="list-style: inside;">VIP Priority Support</li>
+															</ul>
+															<a class="btn mt-3" href="#" style="color: #fff;">Get Offer</a>
 														</div>
 													</div>
 												</div>
 											</div>
 											<p>
-												Our user-friendly content management system allows you to take control of your website, making text edits, image updates, and content changes a breeze—no technical expertise required. We specialize in crafting customized designs that not only reflect your brand identity but also ensure a seamless and responsive experience across all devices. Scalable, SEO-friendly, and cost-effective, our CMS websites come with training sessions and ongoing support to help you navigate and make the most of your online space. Discover the simplicity of maintaining a dynamic and engaging website with our tailored CMS solutions.
+												At Webkors, our packages are meticulously crafted to meet the diverse needs of businesses seeking professional website design. The Essential Web Presence Package provides an affordable entry point for those looking to establish their online identity, while the Business Boost Package offers a comprehensive solution for those aiming to enhance their reach and functionality. For those seeking the pinnacle of digital excellence, our Premium Excellence Package ensures a top-tier web presence with advanced features, unmatched security, and personalized support. No matter your business size or goals, Webkors has the perfect package to elevate your online presence.
 											</p>
 											<blockquote class="overlay">
-												<p>Explore our range of CMS packages designed to meet diverse needs and propel your digital success. Whether you're just starting or looking to enhance your online presence, our CMS packages offer a spectrum of features to suit every requirement.</p>					
+												<p>
+													Choose the package that aligns perfectly with your goals and let Webkors transform your digital presence into a captivating and powerful online experience.
+												</p>					
 											</blockquote>
-											<p></p> From the essentials of user-friendly content management to the sophistication of advanced customization and support, each package is crafted to provide a seamless and efficient website experience. Choose the package that aligns with your goals and discover the power of effective content management, responsive design, and ongoing support. Elevate your online presence with our versatile and scalable CMS solutions, empowering you to thrive in the ever-evolving digital landscape.</p>
+											<p>
+												Beyond the features listed, what sets our packages apart is our unwavering commitment to customer satisfaction. From the Essential package to the Premium Excellence tier, each client receives dedicated support and a seamless experience. We don't just build websites; we cultivate relationships. As your business grows, our packages are designed to scale with you, ensuring that your online presence remains not only effective but also a driving force behind your success. Choose Webkors for professional website design that goes beyond the ordinary, delivering unparalleled support and fostering your business growth.
+											</p>
 										</div>
 										<!-- <div class="blog-bottom">
 											Social Share

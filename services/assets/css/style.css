@@ -1467,7 +1467,7 @@ body{
 	border-radius: 3px;
 	margin: 0 0 0 -52px;
 	margin-top: 49px;
-	box-sizing: ;
+	/* box-sizing: ; */
 }
 .testimonials .owl-dots .owl-dot {
 	display: inline-block;
@@ -2299,6 +2299,14 @@ body{
 	background-size: cover;
 	background-position: center;
 	background-image: url("../../img/AdobeStock_56845182_Preview.jpeg");
+}
+.news-single .maintenance-head{
+	width: 100%;
+	height:350px;
+	position: 100%;
+	background-size: cover;
+	background-position: CENTER;
+	background-image: url("../../img/AdobeStock_596107316_Preview.jpeg");
 }
 .news-single .news-head .overlay{
 	width:100%;
