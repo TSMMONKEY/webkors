@@ -46,7 +46,7 @@
 													</div>
 													<div class="col-lg-4 col-md-4 col-12">
 														<div class="single-image text-left">
-															<img src="../img/AdobeStock_632724144_Preview (1).jpeg" alt="#">
+															<img src="../img/AdobeStock_632724165_Preview.jpeg" alt="#">
 															<h3 class="pt-4 pb-sm-2 pb-md-5 pb-lg-3">Professional Design Package</h3>
 															<ul style="list-style: inside;">
 																<li style="list-style: inside;">Everything In Starter Package</li>

@@ -98,8 +98,8 @@
 						<div class="col-lg-6 col-md-7 col-12">
 							<!-- Top Contact -->
 							<ul class="top-contact">
-								<li><i class="fa fa-phone"></i>+27-60-636-0629</li>
-								<li><i class="fa fa-envelope"></i><a href="mailto:support@webkors.co.za">info@webkors.co.za</a></li>
+								<li><img src="/img/icons/phone-svgrepo-com.svg" alt="phone" style="width: 23px; padding: 2px;">+27-60-636-0629</li>
+								<li><img src="/img/icons/email-svgrepo-com.svg" alt="phone" style="width: 23px; padding-right: 5px;"><a href="mailto:support@webkors.co.za">info@webkors.co.za</a></li>
 							</ul>
 							<!-- End Top Contact -->
 						</div>
@@ -129,13 +129,13 @@
 										<ul class="nav menu">
 											<li class="active"><a href="#">Home</a>
 											<li><a href="#">About </a></li>
-											<li><a href="#">Services <i class="icofont-rounded-down"></i></a>
+											<li><a href="#">Services<img src="/img/icons/chevron-down-svgrepo-com.svg" alt="phone" style="width: 23px; padding: 2px;"></a>
 												<ul class="dropdown">
 													<li><a href="services/basic-web-design/">Basic Web Design</a></li>
 													<li><a href="services/pro-web-design/">Pro Web Design</a></li>
 													<li><a href="services/web-maintenance">Website Maintenance</a></li>
 													<li><a href="/services/custom-web-design/">Custom Web Design</a></li>
-													<li><a href="404.html">Email Development</a></li>
+													<li><a href="/services/email-marketing/">Email Development</a></li>
 													<li><a href="404.html">E-COMMERCE / ONLINE SHOP</a></li>
 												</ul>
 											</li>

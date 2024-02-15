@@ -79,7 +79,7 @@
 										<h3 style="color: #fff; font-size: 15px; text-transform: capitalize;">Get A website for only <br><span style="font-size: 25px; font-weight: 600;">R650 <small style="font-size: 50%;">/once off</small></span></h3>
 										<h4>Wordpress Website</h4>
 										<p>Unlock your online presence effortlessly with our WordPress Website service, priced at just R650 as a one-time fee. Benefit from a professionally crafted website tailored to your needs</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="#">LEARN MORE<img src="img/icons/chevron-right-dot-svgrepo-com (white).svg" alt="" width="30px" style="margin-left: 5px;"></a>
 									</div>
 								</div>
 							</div>
@@ -95,7 +95,7 @@
 										<h3 style="color: #fff; font-size: 15px; text-transform: capitalize;">Get A custom website for only <br><span style="font-size: 25px; font-weight: 600;">R1 800 <small style="font-size: 50%;">/once off</small></span></h3>
 										<h4>Custom Website</h4>
 										<p>Crafting a unique online identity is within reach with our Custom Website service, available at a one-time cost of R1,800. Tailored to your specific needs, our custom...</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="#">LEARN MORE<img src="img/icons/chevron-right-dot-svgrepo-com (white).svg" alt="" width="30px" style="margin-left: 5px;"></a>
 									</div>
 								</div>
 							</div>
@@ -111,7 +111,7 @@
 										<h3 style="color: #fff; font-size: 15px; text-transform: capitalize;">Get Your website up to date for only<br><span style="font-size: 25px; font-weight: 600;">R75.00 <small style="font-size: 50%;">/per hour</small></span></h3>
 										<h4>Website Maintenance</h4>
 										<p>Unlock your online presence effortlessly with our WordPress Website service, priced at just R650 as a one-time fee. Benefit from a professionally crafted website tailored to your needs...</p>
-										<a href="#">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="#">LEARN MORE<img src="img/icons/chevron-right-dot-svgrepo-com (white).svg" alt="" width="30px" style="margin-left: 5px;"></a>
 									</div>
 								</div>
 							</div>
@@ -129,7 +129,7 @@
 					<div class="col-lg-12">
 						<div class="section-title">
 							<h2>We Are Always Ready to Help You & Your Company</h2>
-							<img src="img/section-img.png" alt="#">
+							<img src="img/gifs/help.gif" alt="#">
 							<p>
 								At our website development company, we pride ourselves on being always ready to assist you and your company
 							</p>
@@ -141,9 +141,9 @@
 						<!-- Start Single features -->
 						<div class="single-features">
 							<div class="signle-icon">
-								<i class="icofont icofont-ambulance-cross"></i>
+							<img src="img/gifs/different-services.gif" alt="" width="150px">
 							</div>
-							<h3>Emergency Help</h3>
+							<h3 style="padding-top:15px">Emergency Help</h3>
 							<p>we stand ready to be your reliable partner in achieving digital success..</p>
 						</div>
 						<!-- End Single features -->
@@ -152,9 +152,9 @@
 						<!-- Start Single features -->
 						<div class="single-features">
 							<div class="signle-icon">
-								<i class="icofont icofont-medical-sign-alt"></i>
+								<img src="img/gifs/maintenance-package.gif" alt="">
 							</div>
-							<h3>Excellence Through Website Maintenance</h3>
+							<h3 style="padding-top:15px">Excellence Through Website Maintenance</h3>
 							<p>We understand the unique needs of each client, and our commitment to excellence ensures that your vision is translated.</p>
 						</div>
 						<!-- End Single features -->
@@ -163,9 +163,9 @@
 						<!-- Start Single features -->
 						<div class="single-features last">
 							<div class="signle-icon">
-								<i class="icofont icofont-stethoscope"></i>
+							<img src="img/gifs/webkors-projects.gif" alt="">
 							</div>
-							<h3>Custom Website service</h3>
+							<h3 style="padding-top:15px">Custom Website service</h3>
 							<p>Tailored to your specific needs, our custom websites are designed to stand out.</p>
 						</div>
 						<!-- End Single features -->
@@ -182,7 +182,7 @@
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Start Single Fun -->
 						<div class="single-fun">
-							<i class="icofont icofont-home"></i>
+							<img src="img/icons/completed-checkmark-done-complete-svgrepo-com.svg" alt="" width="100%" style="padding-bottom: 10px;  height:125px;">
 							<div class="content">
 								<span class="counter">650</span>
 								<p>Websites Completed</p>
@@ -193,7 +193,7 @@
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Start Single Fun -->
 						<div class="single-fun">
-							<i class="icofont icofont-user-alt-3"></i>
+							<img src="img/icons/maintenance-repair-construction-svgrepo-com.svg" alt="" width="100%" style="padding-bottom: 10px;  height:125px;">
 							<div class="content">
 								<span class="counter">150</span>
 								<p>Maintained Websites</p>
@@ -204,7 +204,7 @@
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Start Single Fun -->
 						<div class="single-fun">
-							<i class="icofont-simple-smile"></i>
+							<img src="img/icons/website-seo-marketing-hitting-the-bullseye-svgrepo-com.svg" alt="" width="100%" style="padding-bottom: 10px;  height:125px;">
 							<div class="content">
 								<span class="counter">600</span>
 								<p>Happy Clients</p>
@@ -215,7 +215,7 @@
 					<div class="col-lg-3 col-md-6 col-12">
 						<!-- Start Single Fun -->
 						<div class="single-fun">
-							<i class="icofont icofont-table"></i>
+							<img src="img/icons/experience-information-knowledge-svgrepo-com.svg" alt="" width="100%" style="padding-bottom: 10px;  height:125px;">
 							<div class="content">
 								<span class="counter">5</span>
 								<p>Years of Experience</p>
@@ -253,16 +253,16 @@
 							<div class="row">
 								<div class="col-lg-6">
 									<ul class="list">
-										<li><i class="fa fa-caret-right"></i>Maecenas vitae luctus nibh. </li>
-										<li><i class="fa fa-caret-right"></i>Duis massa massa.</li>
-										<li><i class="fa fa-caret-right"></i>Aliquam feugiat interdum.</li>
+										<li><img src="img/icons/more-svgrepo-com.svg" alt="more" width="25px" style="margin-right: 5px;">Maecenas vitae luctus nibh. </li>
+										<li><img src="img/icons/more-svgrepo-com.svg" alt="more" width="25px" style="margin-right: 5px;">Duis massa massa.</li>
+										<li><img src="img/icons/more-svgrepo-com.svg" alt="more" width="25px" style="margin-right: 5px;">Aliquam feugiat interdum.</li>
 									</ul>
 								</div>
 								<div class="col-lg-6">
 									<ul class="list">
-										<li><i class="fa fa-caret-right"></i>Maecenas vitae luctus nibh. </li>
-										<li><i class="fa fa-caret-right"></i>Duis massa massa.</li>
-										<li><i class="fa fa-caret-right"></i>Aliquam feugiat interdum.</li>
+										<li><img src="img/icons/more-svgrepo-com.svg" alt="more" width="25px" style="margin-right: 5px;">Maecenas vitae luctus nibh. </li>
+										<li><img src="img/icons/more-svgrepo-com.svg" alt="more" width="25px" style="margin-right: 5px;">Duis massa massa.</li>
+										<li><img src="img/icons/more-svgrepo-com.svg" alt="more" width="25px" style="margin-right: 5px;">Aliquam feugiat interdum.</li>
 									</ul>
 								</div>
 							</div>
@@ -282,7 +282,7 @@
 									</div>
 								</div>
 								<!--/ End Video Animation -->
-								<a href="https://www.youtube.com/watch?v=SGb8ye5js3w" class="video video-popup mfp-iframe"><i class="fa fa-play"></i></a>
+								<a href="https://www.youtube.com/watch?v=SGb8ye5js3w" class="video video-popup mfp-iframe"><img src="img/icons/play-stream-svgrepo-com.svg" alt=""></a>
 							</div>
 						</div>
 						<!-- End Choose Rights -->
@@ -304,7 +304,7 @@
 							</p>
 							<div class="button">
 								<a href="#" class="btn">Contact Now</a>
-								<a href="#" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								<a href="#" class="btn second">Learn More<img src="img/icons/chevron-right-dot-svgrepo-com (white).svg" alt="" width="30px" style="margin-left: 5px;"></a>
 							</div>
 						</div>
 					</div>
@@ -332,35 +332,31 @@
 					<div class="col-lg-12 col-12">
 						<div class="owl-carousel portfolio-slider">
 							<div class="single-pf">
-								<img src="img/pf1.jpg" alt="#">
+								<img src="img/projects/goals.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf2.jpg" alt="#">
+								<img src="img/projects/convertkit-webkors.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf3.jpg" alt="#">
+								<img src="img/projects/Screenshot 2023-08-21 093103.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf4.jpg" alt="#">
+								<img src="img/projects/webkors0.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf1.jpg" alt="#">
+								<img src="img/projects/superbalist0.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf2.jpg" alt="#">
+								<img src="img/projects/contentfull-email.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 							<div class="single-pf">
-								<img src="img/pf3.jpg" alt="#">
-								<a href="portfolio-details.html" class="btn">View Details</a>
-							</div>
-							<div class="single-pf">
-								<img src="img/pf4.jpg" alt="#">
+								<img src="img/projects/webkors-blog.png" alt="#">
 								<a href="portfolio-details.html" class="btn">View Details</a>
 							</div>
 						</div>
@@ -485,20 +481,20 @@
 							<!-- Table Head -->
 							<div class="table-head">
 								<div class="icon">
-									<i class="icofont icofont-ui-cut"></i>
+									<img src="img/icons/basic-ui-computer-svgrepo-com.svg" alt="" width="50px">
 								</div>
-								<h4 class="title">Plastic Suggery</h4>
+								<h4 class="title">Basic Package</h4>
 								<div class="price">
-									<p class="amount">$199<span>/ Per Visit</span></p>
+									<p class="amount">R70<span>/ Per Hour</span></p>
 								</div>	
 							</div>
 							<!-- Table List -->
-							<ul class="table-list">
-								<li><i class="icofont icofont-ui-check"></i>Lorem ipsum dolor sit</li>
-								<li><i class="icofont icofont-ui-check"></i>Cubitur sollicitudin fentum</li>
-								<li class="cross"><i class="icofont icofont-ui-close"></i>Nullam interdum enim</li>
-								<li class="cross"><i class="icofont icofont-ui-close"></i>Donec ultricies metus</li>
-								<li class="cross"><i class="icofont icofont-ui-close"></i>Pellentesque eget nibh</li>
+							<ul class="table-list" id="package-list">
+								<li class="has"><img src="../img/tick-svgrepo-com (1).svg" alt="">Regular Updates and Content Management</li>
+								<li class="has"><img src="../img/tick-svgrepo-com (1).svg" alt="">Security Audits and Monitoring</li>
+								<li class="has"><img src="../img/close-svgrepo-com (1).svg" alt="">Performance Optimization</li>
+								<li class="has"><img src="../img/close-svgrepo-com.svg" alt="">Backup and Disaster Recovery</li>
+								<li class="has"><img src="../img/close-svgrepo-com.svg" alt="">SEO Maintenance</li>
 							</ul>
 							<div class="table-bottom">
 								<a class="btn" href="#">Book Now</a>
@@ -513,20 +509,20 @@
 							<!-- Table Head -->
 							<div class="table-head">
 								<div class="icon">
-									<i class="icofont icofont-tooth"></i>
+								<img src="img/icons/basic-ui-computer-svgrepo-com.svg" alt="" width="50px">
 								</div>
-								<h4 class="title">Teeth Whitening</h4>
+								<h4 class="title">Standard Package</h4>
 								<div class="price">
-									<p class="amount">$299<span>/ Per Visit</span></p>
+									<p class="amount">R150<span>/ Per Hour</span></p>
 								</div>	
 							</div>
 							<!-- Table List -->
 							<ul class="table-list">
-								<li><i class="icofont icofont-ui-check"></i>Lorem ipsum dolor sit</li>
-								<li><i class="icofont icofont-ui-check"></i>Cubitur sollicitudin fentum</li>
-								<li><i class="icofont icofont-ui-check"></i>Nullam interdum enim</li>
-								<li class="cross"><i class="icofont icofont-ui-close"></i>Donec ultricies metus</li>
-								<li class="cross"><i class="icofont icofont-ui-close"></i>Pellentesque eget nibh</li>
+								<li><i class="icofont icofont-ui-check"></i>Regular Updates and Content Management</li>
+								<li><i class="icofont icofont-ui-check"></i>Security Audits and Monitoring</li>
+								<li><i class="icofont icofont-ui-check"></i>Performance Optimization</li>
+								<li class="cross"><i class="icofont icofont-ui-close"></i>Backup and Disaster Recovery</li>
+								<li class="cross"><i class="icofont icofont-ui-close"></i>SEO Maintenance</li>
 							</ul>
 							<div class="table-bottom">
 								<a class="btn" href="#">Book Now</a>
@@ -541,20 +537,20 @@
 							<!-- Table Head -->
 							<div class="table-head">
 								<div class="icon">
-									<i class="icofont-heart-beat"></i>
+								<img src="img/icons/basic-ui-computer-svgrepo-com.svg" alt="" width="50px">
 								</div>
-								<h4 class="title">Heart Suggery</h4>
+								<h4 class="title">Gold Package</h4>
 								<div class="price">
-									<p class="amount">$399<span>/ Per Visit</span></p>
+									<p class="amount">R250<span>/ Per Hour</span></p>
 								</div>	
 							</div>
 							<!-- Table List -->
 							<ul class="table-list">
-								<li><i class="icofont icofont-ui-check"></i>Lorem ipsum dolor sit</li>
-								<li><i class="icofont icofont-ui-check"></i>Cubitur sollicitudin fentum</li>
-								<li><i class="icofont icofont-ui-check"></i>Nullam interdum enim</li>
-								<li><i class="icofont icofont-ui-check"></i>Donec ultricies metus</li>
-								<li><i class="icofont icofont-ui-check"></i>Pellentesque eget nibh</li>
+								<li><i class="icofont icofont-ui-check"></i>Regular Updates and Content Management</li>
+								<li><i class="icofont icofont-ui-check"></i>Security Audits and Monitoring</li>
+								<li><i class="icofont icofont-ui-check"></i>Performance Optimization</li>
+								<li><i class="icofont icofont-ui-check"></i>Backup and Disaster Recovery</li>
+								<li><i class="icofont icofont-ui-check"></i>SEO Maintenance</li>
 							</ul>
 							<div class="table-bottom">
 								<a class="btn" href="#">Book Now</a>
@@ -565,7 +561,7 @@
 					<!-- End Single Table-->
 				</div>	
 			</div>	
-		</section>	
+		</section>
 		<!--/ End Pricing Table -->
 		
 		

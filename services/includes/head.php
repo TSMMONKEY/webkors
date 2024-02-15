@@ -135,8 +135,8 @@
 													<li><a href="/services/pro-web-design/">Pro Web Design</a></li>
 													<li><a href="/services/web-maintenance">Website Maintenance</a></li>
 													<li><a href="/services/custom-web-design/">Custom Web Design</a></li>
-													<li><a href="404.html">Email Development</a></li>
-													<li><a href="404.html">E-COMMERCE / ONLINE SHOP</a></li>
+													<li><a href="/services/email-marketing/">Email Development</a></li>
+													<li><a href="/services/e-commerce/">E-COMMERCE / ONLINE SHOP</a></li>
 												</ul>
 											</li>
 											<li><a href="#">Blog</a>

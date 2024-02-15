@@ -87,7 +87,7 @@ Version:	1.1
 			autoplayHoverPause:true,
 			items:1,
 			nav:true,
-			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+			navText: ['<img src="img/icons/chevron-left-dot-svgrepo-com (white).svg" alt="" width="30px" style="margin-left: 5px;">', '<img src="img/icons/chevron-right-dot-svgrepo-com (white).svg" alt="" width="30px" style="margin-left: 5px;">'],
 			dots:false,
 		});
 

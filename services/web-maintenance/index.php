@@ -1,5 +1,16 @@
 <?php require "../includes/head.php"; ?>
 		<!-- End Header Area -->
+		<style>
+			#package-list .has img{
+				position: absolute;
+				width: 17px;
+				height: 17px;
+				background: #3874cf;
+				right: 0;
+				top: 0;
+				border-radius: 17px;
+			}
+		</style>
 		
 		<!-- Single News -->
 		<section class="service-single news-single section pt-0 pb-0">
@@ -209,6 +220,107 @@
 								</div>
 							</div> -->
 							<!--/ End Single Widget -->
+							<section class="pricing-table section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="section-title">
+							<h2>Unlock Seamless Performance with Our <strong>Website Maintenance Packages</strong></h2>
+							<img src="img/section-img.png" alt="#">
+							<p>
+								Ensuring your online presence remains at its best requires dedicated attention.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<!-- Single Table -->
+					<div class="col-lg-4 col-md-12 col-12">
+						<div class="single-table">
+							<!-- Table Head -->
+							<div class="table-head">
+								<div class="icon">
+									<i class="icofont icofont-ui-cut"></i>
+								</div>
+								<h4 class="title">Basic Package</h4>
+								<div class="price">
+									<p class="amount">R70<span>/ Per Hour</span></p>
+								</div>	
+							</div>
+							<!-- Table List -->
+							<ul class="table-list" id="package-list">
+								<li class="has"><img src="../img/tick-svgrepo-com (1).svg" alt="">Regular Updates and Content Management</li>
+								<li class="has"><img src="../img/tick-svgrepo-com (1).svg" alt="">Security Audits and Monitoring</li>
+								<li class="has"><img src="../img/close-svgrepo-com (1).svg" alt="">Performance Optimization</li>
+								<li class="has"><img src="../img/close-svgrepo-com.svg" alt="">Backup and Disaster Recovery</li>
+								<li class="has"><img src="../img/close-svgrepo-com.svg" alt="">SEO Maintenance</li>
+							</ul>
+							<div class="table-bottom">
+								<a class="btn" href="#">Book Now</a>
+							</div>
+							<!-- Table Bottom -->
+						</div>
+					</div>
+					<!-- End Single Table-->
+					<!-- Single Table -->
+					<div class="col-lg-4 col-md-12 col-12">
+						<div class="single-table">
+							<!-- Table Head -->
+							<div class="table-head">
+								<div class="icon">
+									<i class="icofont icofont-tooth"></i>
+								</div>
+								<h4 class="title">Standard Package</h4>
+								<div class="price">
+									<p class="amount">R150<span>/ Per Hour</span></p>
+								</div>	
+							</div>
+							<!-- Table List -->
+							<ul class="table-list">
+								<li><i class="icofont icofont-ui-check"></i>Regular Updates and Content Management</li>
+								<li><i class="icofont icofont-ui-check"></i>Security Audits and Monitoring</li>
+								<li><i class="icofont icofont-ui-check"></i>Performance Optimization</li>
+								<li class="cross"><i class="icofont icofont-ui-close"></i>Backup and Disaster Recovery</li>
+								<li class="cross"><i class="icofont icofont-ui-close"></i>SEO Maintenance</li>
+							</ul>
+							<div class="table-bottom">
+								<a class="btn" href="#">Book Now</a>
+							</div>
+							<!-- Table Bottom -->
+						</div>
+					</div>
+					<!-- End Single Table-->
+					<!-- Single Table -->
+					<div class="col-lg-4 col-md-12 col-12">
+						<div class="single-table">
+							<!-- Table Head -->
+							<div class="table-head">
+								<div class="icon">
+									<i class="icofont-heart-beat"></i>
+								</div>
+								<h4 class="title">Gold Package</h4>
+								<div class="price">
+									<p class="amount">R250<span>/ Per Hour</span></p>
+								</div>	
+							</div>
+							<!-- Table List -->
+							<ul class="table-list">
+								<li><i class="icofont icofont-ui-check"></i>Regular Updates and Content Management</li>
+								<li><i class="icofont icofont-ui-check"></i>Security Audits and Monitoring</li>
+								<li><i class="icofont icofont-ui-check"></i>Performance Optimization</li>
+								<li><i class="icofont icofont-ui-check"></i>Backup and Disaster Recovery</li>
+								<li><i class="icofont icofont-ui-check"></i>SEO Maintenance</li>
+							</ul>
+							<div class="table-bottom">
+								<a class="btn" href="#">Book Now</a>
+							</div>
+							<!-- Table Bottom -->
+						</div>
+					</div>
+					<!-- End Single Table-->
+				</div>	
+			</div>	
+		</section>
 							<section class="blog section pt-0" id="blog">
 								<div class="container">
 								<section class="appointment pt-4">
